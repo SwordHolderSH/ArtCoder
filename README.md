@@ -24,7 +24,7 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
    <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/style/s.jpg" width="200" /></td>
    <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/content/dog_cat.jpg" width="200" />      </td>
      <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/content/dog_cat.jpg" width="200" />      </td>
-   <td>.<div align=center><img src="https://github.com/SwordHolderSH/ArtCoder-An-End-to-end-Method-for-Generating-Scanning-robust-Stylized-QR-Codes/blob/main/demos/output_82.jpg" width="200" /></td>
+   <td>.<div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_84.jpg" width="240" /></td>
  </tr>
   
    <tr>
