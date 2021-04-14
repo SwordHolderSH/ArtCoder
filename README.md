@@ -28,16 +28,16 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
   
  <tr>
 
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/brad.jpg" width="300" />      </td>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_66.jpg" width="420" /></td>
-        <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="300" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/brad.jpg" width="250" />      </td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_66.jpg" width="400" /></td>
+        <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="250" /></td>
  </tr>
  
   <tr>
 
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/man.jpg" width="350" />      </td>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_68.jpg" width="420" /></td>
-        <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="350" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/man.jpg" width="250" />      </td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_68.jpg" width="400" /></td>
+        <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="250" /></td>
  </tr>
   
   <tr>
