@@ -21,41 +21,41 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
    <td>Content</td><td>Output</td><td>Style</td>
  </tr>
  <tr height="350">
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/boy.jpg" width="270" />      </td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/boy.jpg" width="280" />      </td>
    <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_84.jpg" width="400" /></td>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="270" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="280" /></td>
  </tr>
   
 <tr height="350">
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/ca.jpg" width="420" />      </td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/ca.jpg" width="280" />      </td>
    <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_182.jpg" width="420" /></td>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/redwave4.jpg" width="420" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/redwave4.jpg" width="280" /></td>
  </tr>
   
 <tr height="350">
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/brad.jpg" width="250" />      </td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/brad.jpg" width="280" />      </td>
    <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_66.jpg" width="400" /></td>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="250" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="280" /></td>
  </tr>
  
 <tr height="350">
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/man.jpg" width="250" />      </td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/man.jpg" width="280" />      </td>
    <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_68.jpg" width="400" /></td>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="250" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="280" /></td>
  </tr>
   
   <tr>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="420" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="280" /></td>
    <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/boy.jpg" width="420" />      </td>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_105.jpg" width="420" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_105.jpg" width="280" /></td>
  </tr>
  
 
  
  <tr>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="420" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="280" /></td>
    <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/boy.jpg" width="420" />      </td>
-   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_84.jpg" width="420" /></td>
+   <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_84.jpg" width="280" /></td>
  </tr>
   
  
