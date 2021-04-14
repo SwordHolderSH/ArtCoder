@@ -1,5 +1,5 @@
 # ArtCoder-An-End-to-end-Method-for-Generating-Scanning-robust-Stylized-QR-Codes
-A terrible PyTorch implementation of "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***", CVPR 2021.
+A terrible PyTorch implementation of "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***".
 
 The paper "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***" has been accepted by CVPR 2021. If the work or code is useful to you, please cite
 ```
@@ -24,7 +24,7 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
    <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/style/s.jpg" width="200" /></td>
    <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/content/dog_cat.jpg" width="200" />      </td>
      <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/content/dog_cat.jpg" width="200" />      </td>
-   <td>.<div align=center><img src="https://github.com/SwordHolderSH/neural-style-pytorch/blob/master/demos/out_27000.jpg" width="200" /></td>
+   <td>.<div align=center><img src="https://github.com/SwordHolderSH/ArtCoder-An-End-to-end-Method-for-Generating-Scanning-robust-Stylized-QR-Codes/blob/main/demos/output_84.jpg" width="200" /></td>
  </tr>
   
    <tr>
