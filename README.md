@@ -1,7 +1,7 @@
 # ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes
 A terrible PyTorch implementation of "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***".
 
-The paper "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***" has been accepted by CVPR 2021. If you use the code for your research, please cite
+The paper "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***" has been accepted by CVPR 2021. If the paper or code is useful for your research, please cite
 ```
 @inproceedings{artcoderCVPR2021,
   title={{ArtCoder}: An End-to-end Method for Generating Scanning-robust Stylized QR Codes},
