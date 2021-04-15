@@ -104,4 +104,7 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 ## Getting Started
 
+### Installation
+
+*Clone this repo:
 
