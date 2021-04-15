@@ -106,5 +106,8 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 ### Installation
 
-*Clone this repo:
-
+* Clone this repo:
+```
+    git clone https://github.com/SwordHolderSH/ArtCoder
+    cd ArtCoder
+```
