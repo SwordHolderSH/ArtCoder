@@ -123,5 +123,5 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 * Generate your customized Stylized QR code:
 ```
-    python main.py -style_img_path ./xxxx/xxx.jpg  --content_img_path ./xxxx/xxx.jpg --code_img_path ./xxxx/xxx.jpg
+    python main.py -style_img_path ./xxxx/xxx.jpg  --content_img_path ./xxxx/xxx.jpg --code_img_path ./xxxx/xxx.jpg --output_dir ./xxxx/
 ```
