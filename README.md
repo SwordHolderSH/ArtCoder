@@ -100,7 +100,8 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 ## Prerequisites
  
  * Linux or Windows
- * Python 3.6
+ * CPU or NVIDIA GPU + CUDA CuDNN
+ * Python 3
  * Pytorch 1.7.0
 
 ## Getting Started
@@ -115,3 +116,9 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 * Install PyTorch and other dependencies.
 
 ### Quick Start
+* Get detailed information about all parameters using
+```
+    python main.py -h
+```
+
+
