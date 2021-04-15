@@ -29,6 +29,7 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 </tr>
 <tr>
   <td >1.1</td>
+   <td>1.3</td>
   
 </tr>
  
