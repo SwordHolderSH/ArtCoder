@@ -19,7 +19,7 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 <table>
   
 <tr>
-   <td>Style&Content</td>
+   <td style= "text-align: left">Style&Content</td>
    <td>Output</td> 
 </tr>
  
