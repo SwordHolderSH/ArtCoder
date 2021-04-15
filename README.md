@@ -18,17 +18,17 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 <table>
   
-<tr text-align=center>
+<tr>
    <td align="center">Style&Content</td>
-   <td>Output</td> 
+   <td align="center">Output</td> 
 </tr>
  
 <tr>
- <td height="250" width="250" align=center><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="230" /></td>
- <td rowspan="2" align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_84.jpg" width="500" /></td>
+ <td height="250" width="250" align="center"><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="230" /></td>
+ <td rowspan="2" align="center"><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_84.jpg" width="500" /></td>
 </tr>
 <tr height="250">
-  <td align=center width="250"><div align=center><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/boy.jpg" width="230" /></td> 
+  <td align="center" width="250"><div align=center><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/boy.jpg" width="230" /></td> 
 </tr>
  
 
