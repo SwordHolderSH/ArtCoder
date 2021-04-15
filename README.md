@@ -27,8 +27,8 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
  <td>1.2</td>
 </tr>
 <tr>
-  <td rowspan="2">1.1</td>
-  <td>2.2</td>
+  <td >1.1</td>
+  <td rowspan="2">2.2</td>
 </tr>
  
 
