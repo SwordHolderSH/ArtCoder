@@ -19,7 +19,7 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 <table>
   
 <tr text-align=center>
-   <td>Style&Content</td>
+   <td align="center">Style&Content</td>
    <td>Output</td> 
 </tr>
  
@@ -39,30 +39,5 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 </table>
 
 
-
-<table>
-
  
-
-
-
- 
- 
- 
- 
- <tr height="400" valign="middle">
-   <td >
-      <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/style/texture1.1.jpg" width="290" /></td>
-      <td><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/boy.jpg" width="290" /></td>
-   </td>
-   <td>
-      <div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/demos/output_84.jpg" width="350" />
-   </td>
- </tr>
- 
- 
- 
- 
-
- </table>
-  <p align="center"> **Table 1**</p>
+<p align="center"> **Table 1**</p>
