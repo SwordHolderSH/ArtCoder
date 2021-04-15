@@ -99,6 +99,7 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 ## Prerequisites
  
+ * Linux or Windows
  * Python 3.6
  * Pytorch 1.7.0
 
@@ -111,3 +112,4 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
     git clone https://github.com/SwordHolderSH/ArtCoder
     cd ArtCoder
 ```
+* Install PyTorch and other dependencies.
