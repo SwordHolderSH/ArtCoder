@@ -1,12 +1,12 @@
 # ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes
 A terrible PyTorch implementation of "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***".
 
-The paper "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***" has been accepted by CVPR 2021. If the work or code is useful to you, please cite
+The paper "***ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes***" has been accepted by CVPR 2021. If you use the code for your research, please cite
 ```
 @inproceedings{artcoderCVPR2021,
-  title={ArtCoder: An End-to-end Method for Generating Scanning-robust Stylized QR Codes.},
+  title={{ArtCoder}: An End-to-end Method for Generating Scanning-robust Stylized QR Codes},
   author={Hao Su, Jianwei Niu, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu, Tao Ren},
-  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  booktitle={{IEEE} Conference on Computer Vision and Pattern Recognition (CVPR '21)},
   year={2021}
 }
 ```
@@ -113,3 +113,5 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
     cd ArtCoder
 ```
 * Install PyTorch and other dependencies.
+
+### Quick Start
