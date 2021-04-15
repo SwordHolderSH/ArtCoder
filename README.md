@@ -16,7 +16,7 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 ## Results
 
-<table border="2" bordercolor="black" width="300" cellspacing="0" cellpadding="5">
+<table  >
 <tr>
 <td rowspan="3">1.1</td>
 <td>1.2</td>
