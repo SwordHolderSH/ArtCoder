@@ -99,4 +99,5 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
 
 ## Prerequisites
  
- 
+     * Python 3.6.12
+     * Pytorch 1.7.0
