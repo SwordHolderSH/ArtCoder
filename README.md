@@ -11,10 +11,10 @@ The paper "***ArtCoder: An End-to-end Method for Generating Scanning-robust Styl
 }
 ```
 
-## abstract
+## Abstract
 Quick Response (QR) code is one of the most worldwide used two-dimensional codes. Traditional QR codes appear as random collections of black-and-white modules that lack visual semantics and aesthetic elements, which inspires the recent works to beautify the appearances of QR codes. However, these works adopt fixed generation algorithms and therefore can only generate QR codes with a pre-defined style. In this paper, combining the Neural Style Transfer technique, we propose a novel end-to-end method, named ArtCoder, to generate the stylized QR codes that are personalized, diverse, attractive, and scanning-robust.~To guarantee that the generated stylized QR codes are still scanning-robust, we propose a Sampling-Simulation layer, a module-based code loss, and a competition mechanism. The experimental results show that our stylized QR codes have high-quality in both the visual effect and the scanning-robustness, and they are able to support the real-world application.
 
-## Results
+## Demos
 
 <table>
   
@@ -95,9 +95,8 @@ Quick Response (QR) code is one of the most worldwide used two-dimensional codes
   <td align="center" width="280"><div align=center><div align=center><img src="https://github.com/SwordHolderSH/ArtCoder/blob/main/content/love.jpg" width="230" /></td> 
 </tr>
 
-
 </table>
 
-
+## Prerequisites
  
-<p align="center"> **Table 1**</p>
+ 
