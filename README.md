@@ -166,4 +166,4 @@ The paper "***ArtCoder: An End-to-end Method for Generating Scanning-robust Styl
 </tr>
 </table>
 
-* The QR codes of version 5 is used by default ```(37*37 modules)```. If you need to use different versions of QR code, you need to adjust the parameters ```--module_number (default: 37)```.
+* The QR codes of version 5 is used by default ```(37*37 modules)```. If you want to use different versions of QR code, you need to adjust the parameters ```--module_number (default: 37)```.
