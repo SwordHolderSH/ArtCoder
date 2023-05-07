@@ -1,0 +1,4 @@
+This folder will have output from default resolution
+
+e.g file names
+> epoch_epoch=0__Wstyle=1.0e+15__Wcode=1.0e+12__Wcontent1.0e+08.jpg
